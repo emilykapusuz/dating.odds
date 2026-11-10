@@ -57,3 +57,5 @@ standard advice is backwards.
 
     pip install matplotlib
     python dating_odds.py
+
+    ## Licence — MIT
